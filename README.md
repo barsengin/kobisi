@@ -1,3 +1,4 @@
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>  
   
 <p align="center">  
@@ -60,4 +61,4 @@ Worker çalıştıktan sonra başarılı işlem, başarısız işlem, başarıl�
 api 'den kontrol edilebilir.
 
 ### SANCTUM
-sisteme kayıt olup token alma işlemleri için laravel/sanctum kullanılır. Detaylarına laravel-sanctum
+sisteme kayıt olup token alma işlemleri için laravel/sanctum kullanılır. Detaylarına [laravel-sanctum](https://laravel.com/docs/8.x/sanctum)
