@@ -6,6 +6,16 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>  
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>  
 </p>  
+
+Ugulama geliştirilirken kullanılan teknolojiler:
+---
+______
+
+```bash
+PHP (8.0)
+Laravel (8)
+PhpStorm (2021.3)
+```
   
 ## Hakkında
 
