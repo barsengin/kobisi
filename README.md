@@ -58,3 +58,6 @@ Worker çalıştıktan sonra başarılı işlem, başarısız işlem, başarıl�
 > GET api/v1/reports/payments
 
 api 'den kontrol edilebilir.
+
+### SANCTUM
+sisteme kayıt olup token alma işlemleri için laravel/sanctum kullanılır. Detaylarına laravel-sanctum
