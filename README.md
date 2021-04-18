@@ -61,4 +61,7 @@ Worker çalıştıktan sonra başarılı işlem, başarısız işlem, başarıl�
 api 'den kontrol edilebilir.
 
 ### SANCTUM
-sisteme kayıt olup token alma işlemleri için laravel/sanctum kullanılır. Detaylarına [laravel-sanctum](https://laravel.com/docs/8.x/sanctum)
+sisteme kayıt olup token alma işlemleri için laravel/sanctum kullanılır. [laravel-sanctum](https://laravel.com/docs/8.x/sanctum) incelenebilir
+
+### SPATIE/ENUM
+Enum type kullanabilrmek için [spatie/enum](https://github.com/spatie/laravel-enum) kullanıldı.
