@@ -14,7 +14,7 @@ class CompanySeeder extends Seeder
      */
     public function run()
     {
-        for ($i =0; $i<50; $i++) {
+        for ($i =0; $i<10; $i++) {
             Company::factory()->create();
         }
     }

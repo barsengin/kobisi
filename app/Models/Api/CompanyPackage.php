@@ -4,6 +4,7 @@ namespace App\Models\Api;
 
 use Carbon\Carbon;
 use Eloquent;
+use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Relations\BelongsTo;
 
@@ -22,7 +23,7 @@ use Illuminate\Database\Eloquent\Relations\BelongsTo;
  */
 class CompanyPackage extends Model
 {
-
+    use  HasFactory;
     protected  $table = 'company_packages';
 
     /**

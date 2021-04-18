@@ -16,8 +16,11 @@ class PackageSeeder extends Seeder
      */
     public function run()
     {
-        for ($i =0; $i<5; $i++) {
-            Package::factory()->create();
-        }
+        Package::factory()->create([
+            'type' => 'yearly'
+        ]);
+        Package::factory()->create([
+            'type' => 'monthly'
+        ]);
     }
 }
