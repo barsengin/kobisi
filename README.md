@@ -17,7 +17,7 @@ Laravel (8)
 PhpStorm (2021.3)
 ```
   
-## Hakkında
+## Api Listesi
 
 >   GET api/v1/companies
   
