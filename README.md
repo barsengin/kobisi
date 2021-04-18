@@ -24,9 +24,9 @@ PhpStorm (2021.3)
 Bütün company datasını listelemek için kullanılır
 
 **Company Register**
-> POST api/v1/companies
+> POST api/v1/register
 
-  Company oluşturmak için kullanılır.
+kayıt olmak ve token alma işlemi için kullanılır.
   
 >   GET api/v1/companies/id
 
